@@ -1,6 +1,6 @@
 <template>
   <div class="bg-[#F5FCFF] h-[900px]  z-0">
-    <div class="container mx-auto flex">
+    <div class="container mx-auto  flex">
       <div>
         <div class="mt-[180px]"><p>Hey, I am John</p></div>
         <div class="w-[550px] mt-[30px]">
@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <div class="w-[900px] ml-[50px]">
+      <div class="w-[900px] ml-[50px] mt-[10px]">
         <img class="w-[900px] h-[650px]" src="../../image/mainsvg.svg" alt="">
       </div>
     </div>

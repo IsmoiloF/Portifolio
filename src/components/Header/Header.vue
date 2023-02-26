@@ -1,5 +1,5 @@
 <template>
-  <header class="shadow-2xl shadowz-black z-50 border border-sky-50">
+  <header class="shadow-xl shadowz-black z-50 relative border border-sky-50">
     <div class="container mx-auto">
       <div class="flex w-full justify-between items-center h-[80px]">
         <div class="w-[200px]">
